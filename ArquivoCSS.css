@@ -1,0 +1,69 @@
+
+
+.bordasimples{
+    font-family: "Arial Rounded MT Bold";
+    font-size: 14;
+    width: 380px;
+    height: 250px;
+	
+	margin-right: 20px;
+	background-color: white;
+    float:right;
+}
+
+.titulo{
+    
+    font-size: 40;
+    text-align: left;
+    font-family: "Arial Rounded MT Bold";
+    width: 1050px;
+    height:300px;
+    color: white;
+    border-radius: 10px;
+	
+	margin:10 auto;
+	background-image: url(pattern2.jpg);
+    
+}
+.subtitulo{
+    text-align: left;
+    font-size: 20;
+    font-family: "Arial Rounded MT Bold";
+    color: white;
+}
+.foto{
+    float :left;
+    width:200px;
+    height:200px;
+    border: 1px;
+	margin:15px;
+    background-image: url(eu.JPG);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    
+}
+.sobremim{
+    width: 1050px;
+    height: 1200px;
+    color: cadetblue;
+    font-size: 30;
+    font-family: "Arial Rounded MT Bold";
+    
+    background-color: white;
+	border-radius: 10px;
+	margin:10 auto;
+}
+BODY{
+    background-image: url(pattern2.png);
+}
+
+
+.curriculo{
+    font-family: "Arial Rounded MT Bold";
+     
+    color: black;
+    font-size: 16;
+    
+}
+
+
